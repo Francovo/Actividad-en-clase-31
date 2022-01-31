@@ -1,0 +1,27 @@
+body{
+    background-image: radial-gradient(circle, #e4e8f4, #a9afca, #7279a0, #3f4777, #06194f);}
+
+.Form{
+    display: flex;
+    justify-content: center;
+}
+
+
+.Input{
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+    height: 2rem;
+    width: 20rem;
+}
+
+.Container{
+    align-content: center;
+    text-align: center;
+    .Texto{
+        border-bottom: solid white;
+    }
+    .Imagen{
+        border: solid white;
+    }
+}
+
